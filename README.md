@@ -2,7 +2,7 @@
 NFT colleterized loan on Solana Network (Anchor)
 
 # About
-- NFT owner can create collaterize loan by locking his nft on smart contract.
+- NFT owner can create collaterized loan by locking his nft on smart contract.
 - Anyone can loan funds to nft owners by earning funds.
 - If NFT owner did not pay back in the limit period, loaner will own nft.
 - If NFT owner pay back, loaner will earn funds and received loaned funds, NFT owner will receive back this nft.
